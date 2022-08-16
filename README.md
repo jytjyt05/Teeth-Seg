@@ -37,7 +37,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE -->
-## Paper and Powerpoint
+## Description
 
 Teeth Labelling is not a brand new field of study, though the amount of available data is highly limited. Teeth data is rarely open source, a product of scarcity in related machine learning research as well as protection of patients' privacy.
 
