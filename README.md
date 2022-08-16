@@ -8,9 +8,12 @@ As the main developer, to improve the project's performance, I modified the proj
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Teeth Art][teeth-art1]](https://github.com/jytjyt05/Xray-Teeth-Segmentation)
-[![Teeth Art][teeth-art2]](https://github.com/jytjyt05/Xray-Teeth-Segmentation)
+<p align="center">
+  <img src="images/input.png">
+</p>
+<p align="center">
+  <img src="images/predicted.png">
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -65,8 +68,3 @@ Original Project Link: [https://github.com/RobertSmithers/TeethSegmentation](htt
 ## Special Thank to Professor.Wei
 * [Image Analysis Course](https://bc-cv.github.io/csci3397/s22/)
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- [teeth-art]: images/logo.png -->
-[teeth-art1]: images/input.png
-[teeth-art2]: images/predicted.png
