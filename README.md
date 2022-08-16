@@ -66,5 +66,5 @@ Original Project Link: [https://github.com/RobertSmithers/TeethSegmentation](htt
 
 <!-- ACKNOWLEDGMENTS -->
 ## Special Thank to Professor.Wei
-* [Image Analysis Course](https://bc-cv.github.io/csci3397/s22/)
+* [Biomedical Image Analysis Course](https://bc-cv.github.io/csci3397/s22/)
 <p align="right">(<a href="#top">back to top</a>)</p>
