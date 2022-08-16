@@ -1,7 +1,7 @@
 # Overview
 Identify teeth in X-ray images using instance segmentation and colored labelling.
 This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic.
-As the main developer, to improve the project's performance. I improved the project by using Res-Unet and achieved 90% accuracy
+As the main developer, to improve the project's performance, I modified the project by using Res-Unet and achieved 90% accuracy
 
 <div id="top"></div>
 
