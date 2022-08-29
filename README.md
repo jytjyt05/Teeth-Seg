@@ -17,7 +17,6 @@ This project was originally created by 3 CS students from Boston College: Yuting
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 ### Built With
 
 * [Python](https://www.python.org/)
@@ -47,6 +46,12 @@ The written paper in CVPR format can be found at 'Teeth seg and label.pdf'; and 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+## Content
+```diff
+- To read the Paper, please click on the PDF file: 'Teeth seg and label.pdf'
+- To see the Powerpoint, please click on the PPTX file: 'Teeth seg and label PPT.pptx'
+```
 
 <!-- LICENSE -->
 ## License
