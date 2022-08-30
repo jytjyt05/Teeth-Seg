@@ -1,12 +1,10 @@
 # Overview
+<div id="top"></div>
 Identify teeth in X-ray images using instance segmentation and colored labelling.
 This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic. It originally used a **PyTorch** based **Unet** for the model but had accuracy less than **80%**. The reason could be the jump between upsampling layers and downsampling layers. As the main developer, to improve the project's performance, I modified the project by using a **Res-Unet** model instead and achieved **90%** accuracy with a Dice Score of 91.
 
-<div id="top"></div>
-
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 <p align="center">
   <img src="images/input.png">
 </p>
@@ -22,20 +20,15 @@ This project was originally created by 3 CS students from Boston College: Yuting
 * [Python](https://www.python.org/)
 * [PyTorch](https://pytorch.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them. It is recommended to install these within a virtual environment within the repository.
+<br/>Packages below are recommended to install.
 
 * PyTorch
   ```sh
   pip install torch
   ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- USAGE -->
+<!-- Description -->
 ## Description
 
 Teeth Labelling is not a brand new field of study, though the amount of available data is highly limited. Teeth data is rarely open source, a product of scarcity in related machine learning research as well as protection of patients' privacy.
@@ -46,7 +39,7 @@ The written paper in CVPR format can be found at 'Teeth seg and label.pdf'; and 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<!-- Content -->
 ## Content
 Due to privacy policy, I cannot provide the data for this model. However, the code is provided above in 'train.ipynb' and 'test.ipynb'. You may copy/reproduce a similar approach for your own x-ray teeth datasets.
 ```diff
