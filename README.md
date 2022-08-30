@@ -48,6 +48,7 @@ The written paper in CVPR format can be found at 'Teeth seg and label.pdf'; and 
 
 
 ## Content
+Due to privacy policy, I cannot provide the data for this model. However, the code is provided above in 'train.ipynb' and 'test.ipynb'. You may copy/reproduce a similar approach for your own x-ray teeth datasets.
 ```diff
 - To read the Paper, please click on the PDF file: 'Teeth seg and label.pdf'
 - To see the Powerpoint, please click on the PPTX file: 'Teeth seg and label PPT.pptx'
