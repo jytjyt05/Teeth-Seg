@@ -1,6 +1,6 @@
 # Overview
 Identify teeth in X-ray images using instance segmentation and colored labelling.
-This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic. It originally used a **PyTorch** based **Unet** for the model but had accuracy less than **80%**. The reason could be the jump between upsampling layers and downsampling layers. As the main developer, to improve the project's performance, I modified the project by using a **Res-Unet** model instead and achieved approximately **90%** accuracy.
+This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic. It originally used a **PyTorch** based **Unet** for the model but had accuracy less than **80%**. The reason could be the jump between upsampling layers and downsampling layers. As the main developer, to improve the project's performance, I modified the project by using a **Res-Unet** model instead and achieved approximately **91%** accuracy.
 
 <div id="top"></div>
 
