@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 Identify teeth in X-ray images using instance segmentation and colored labelling.
-This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic. It originally used a **PyTorch** based **Unet** for the model but had accuracy less than **80%**. The reason could be the jump between upsampling layers and downsampling layers. As the main developer, to improve the project's performance, I modified the project by using a **Res-Unet** model instead and achieved **90%** accuracy with a Dice Score of 91.
+This project was originally created by 3 CS students from Boston College: Yuting Ji, Robert Smithers, and Danilla Zunic. It originally used a **PyTorch** based **Unet** for the model but had accuracy less than **80%**. As the main developer, to improve the project's performance, I modified the project by using a **Res-Unet** model instead and achieved around **90%** accuracy with a Dice Score of 91.
 <div id="top"></div>
 
 <p align="center">
@@ -35,7 +35,7 @@ Teeth Labelling is not a brand new field of study, though the amount of availabl
 
 With this teeth segmentation utility, artifical intelligence can autonomously label teeth scans and identify malformed, missing, or otherwise important concerns relating to the count and placement of teeth. The ability to label teeth in fractions of a second serves as a vital aide to dentistry personnel.
 
-The written paper in CVPR format can be found at 'Teeth seg and label.pdf'; and the Powerpoint can be found at 'Teeth seg and label PPT.pptx'. I hope these will help advance research within the academic community!
+The written paper in CVPR format can be found at 'TeethSeg.pdf'. I hope these will help advance research within the academic community!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -43,8 +43,7 @@ The written paper in CVPR format can be found at 'Teeth seg and label.pdf'; and 
 ## Content
 Due to privacy policy, I cannot provide the data for this model. However, the code is provided above in 'train.ipynb' and 'test.ipynb'. You may copy/reproduce a similar approach for your own x-ray teeth datasets.
 ```diff
-- To read the Paper, please click on the PDF file: 'Teeth seg and label.pdf'
-- To see the Powerpoint, please click on the PPTX file: 'Teeth seg and label PPT.pptx'
+- To read the Paper, please click on the PDF file: 'TeethSeg.pdf'
 ```
 
 <!-- LICENSE -->
