@@ -43,7 +43,9 @@ The written paper in CVPR format can be found at 'TeethSeg.pdf'. I hope these wi
 ## Content
 Due to privacy policy, I cannot provide the data for this model. However, the code is provided above in 'train.ipynb' and 'test.ipynb'. You may copy/reproduce a similar approach for your own x-ray teeth datasets.
 ```diff
-- To read the Paper, please click on the PDF file: 'TeethSeg.pdf'
+- To read the Paper, click on the PDF file: 'TeethSeg.pdf'
+- To view the main code, click the jupyter notebook named 'train.ipynb'
+- To test results, click the jupyter notebook named 'Test.ipynb'
 ```
 
 <!-- LICENSE -->
